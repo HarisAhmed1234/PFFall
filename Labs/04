@@ -48,19 +48,45 @@ return 1;
 #include <stdio.h>
 
 int main() {
-int n; 
-printf("Enter the no of inputs: ");
-scanf("%d", &n);
+    int number_of_integers, count = 0, input_value, sum_of_squares = 0;
+	printf("Enter the number of inputs: ");
+    scanf("%d", &number_of_integers);
 
-int count = 1;
-int sum;
-sum=0;
-while (count<=n)
-int i=0;
-printf("Enter number: ");
-scanf("%d" ,&temp);
-sum=sum + (i*i);
-count=count+1
+    while (count < number_of_integers) { 
+        printf("Enter integer %d: ", count + 1);
+        scanf("%d", &input_value);
+        sum_of_squares += (input_value * input_value);
+        count=count + 1;
+    }
+    printf("The sum of the squares is: %d\n", sum_of_squares);
+
+    return 0;
 }
+
+# Q5
+#include <stdio.h>
+
+int main() {
+    int d1, m1, y1;
+    int d2, m2, y2;
+
+    printf("Enter the date of birth for person 1 (dd mm yyyy): ");
+    scanf("%d %d %d", &d1, &m1, &y1);
+
+    printf("Enter the date of birth for person 2 (dd mm yyyy): ");
+    scanf("%d %d %d", &d2, &m2, &y2);
+
+    if (y1 < y2 || (y1 == y2 && m1 < m2) || (y1 == y2 && m1 == m2 && d1 < d2)) {
+        printf("Person 1 is older.\n");
+    } else if (y1 > y2 || (y1 == y2 && m1 > m2) || (y1 == y2 && m1 == m2 && d1 > d2)) {
+        printf("Person 2 is older.\n");
+    } else {
+        printf("Both persons are of the same age.\n");
+    }
+
+    return 0;
+}
+
+
 
 	
