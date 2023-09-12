@@ -43,3 +43,24 @@ while (j<=n){
 }
 return 1;
 }//end main
+
+# Q3
+#include <stdio.h>
+
+int main() {
+int n; 
+printf("Enter the no of inputs: ");
+scanf("%d", &n);
+
+int count = 1;
+int sum;
+sum=0;
+while (count<=n)
+int i=0;
+printf("Enter number: ");
+scanf("%d" ,&temp);
+sum=sum + (i*i);
+count=count+1
+}
+
+	
