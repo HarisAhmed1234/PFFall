@@ -2,7 +2,8 @@
 ## 23k-6005
 
 ## Task 1
-![image](https://github.com/HarisAhmed1234/PFFall/assets/143439820/97fe543d-5a0b-496b-b5cb-ae6b0e00946a)
+![image](https://github.com/HarisAhmed1234/PFFall/assets/143439820/eee054b8-4d10-4188-ac3a-cbbfd1404813)
+
 
 ## Task 2
 ![image](https://github.com/HarisAhmed1234/PFFall/assets/143439820/8e97b170-b2aa-4ec4-a6a7-a6ca0de22e8b)
