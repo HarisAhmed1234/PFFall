@@ -8,13 +8,14 @@
 
 ## Task 02
 
-![image](https://github.com/HarisAhmed1234/PFFall/assets/143439820/625a9c35-39dd-4857-95ef-7d025e34bdc9)
+![image](https://github.com/HarisAhmed1234/PFFall/assets/143439820/311cf763-fb5d-4dd6-8686-b3115c8c1283)
+
 
 
 
 ## Task 03
 
-![image](https://github.com/HarisAhmed1234/PFFall/assets/143439820/6039647f-9903-4462-bf4a-849c08b63154)
+![image](https://github.com/HarisAhmed1234/PFFall/assets/143439820/625a9c35-39dd-4857-95ef-7d025e34bdc9)
 
 
 ## Task 04
