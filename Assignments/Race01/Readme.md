@@ -25,3 +25,13 @@
 ## Task 05
 ![image](https://github.com/HarisAhmed1234/PFFall/assets/143439820/a4405872-e772-484d-a9f7-3ca35f8f36a6)
 
+
+## Task 06
+![image](https://github.com/HarisAhmed1234/PFFall/assets/143439820/a5593314-579d-4aea-a0a0-cf2b1e31581d)
+
+
+## Task 07
+![image](https://github.com/HarisAhmed1234/PFFall/assets/143439820/88a94df2-d32a-421a-936f-7ee80010164f)
+
+
+
