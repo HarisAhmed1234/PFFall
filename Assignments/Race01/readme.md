@@ -28,13 +28,16 @@
 ![image](https://github.com/HarisAhmed1234/PFFall/assets/143439820/84f9f527-c209-4f2a-9231-deec2f94b09d)
 
 # Q8
-![Uploading image.jpeg…]()
+![image](https://github.com/HarisAhmed1234/PFFall/assets/143439820/4b86e7f6-f9ec-431a-a0bd-a7a82f8a7710)
 
 # Q9
-![Uploading image.jpeg…]()
+![image](https://github.com/HarisAhmed1234/PFFall/assets/143439820/4a7a385b-9010-4841-92a7-05e8d6a7c639)
 
 # Q10
-![Uploading image.jpeg…]()
+![image](https://github.com/HarisAhmed1234/PFFall/assets/143439820/2914a2d4-a26a-42c7-a6d6-8693599775d2)
+
+
+
 
 
 
