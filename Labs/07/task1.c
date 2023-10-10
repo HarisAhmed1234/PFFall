@@ -1,3 +1,8 @@
+/*
+* Programmer: Haris Ahmed
+* Desc: Dividing two numbers without using divisor operator
+* Date: 10/10/2023
+*/
 #include <stdio.h>;
 int main(){
 	int num1,num2,n=0,divisor,divident,quotient,remainder;
