@@ -35,11 +35,11 @@ int main() {
 
     printf("Enter the first value: ");
     scanf("%d", &num1);
-    printf("Enter the second value: "); // Changed from "num1" to "num2"
+    printf("Enter the second value: "); 
     scanf("%d", &num2);
 
     printf("Enter the operator: ");
-    scanf(" %c", &operator);  // Corrected operator input and added a space before %c
+    scanf(" %c", &operator);  
 
     int result;
 
