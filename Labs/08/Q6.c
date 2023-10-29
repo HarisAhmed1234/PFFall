@@ -1,3 +1,9 @@
+/*
+Programmer: Haris Ahmed
+Description: user-defined function processArray to calculate the sum, maximum, and minimum values in the array.
+Date: 24/10/2023
+*/
+
 #include <stdio.h>
 
  processArray(int arr[], int size, int *sum, int *max, int *min){
