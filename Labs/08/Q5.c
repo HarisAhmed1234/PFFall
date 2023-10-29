@@ -1,3 +1,8 @@
+/*
+Programmer: Haris Ahmed
+Description: helps users decide whether they should use their car on a particular day of the week.
+Date: 24/10/2023
+*/
 #include <stdio.h>
 
 int decidecarusage(int num, int day);
