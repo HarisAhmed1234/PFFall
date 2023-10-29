@@ -1,5 +1,9 @@
+/*
+Programmer: Haris Ahmed
+Description: Using Functions to swap values
+Date: 24/10/2023
+*/
 #include <stdio.h>
-
 void swapintegers(int *a, int *b);
 
 void swapintegers(int *a, int *b) {
