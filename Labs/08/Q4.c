@@ -1,3 +1,9 @@
+/*
+Programmer: Haris Ahmed
+Description: Password length validation based on requirements
+Date: 24/10/2023
+*/
+
 #include <stdio.h>
 #include <string.h>
 
