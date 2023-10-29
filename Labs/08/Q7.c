@@ -1,3 +1,8 @@
+/*
+Programmer: Haris Ahmed
+Description: C program for a coffee shop that offers discounts based on customer loyalty and purchase history.
+Date: 29/10/2023
+*/
 #include <stdio.h>
 
 // Creating a Function to calculate the discount
