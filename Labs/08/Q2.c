@@ -1,3 +1,8 @@
+/*
+Programmer: Haris Ahmed
+Description: Creating a function to perform basic arithmetic operations 
+Date: 24/10/2023
+*/
 #include <stdio.h>
 
 int multiplication(int a, int b);
