@@ -1,3 +1,8 @@
+/*
+Programmer: Haris Ahmed
+Description: Searching for a specific character using strchr function
+Date: 29/10/2023
+*/
 #include <stdio.h>
 #include <string.h>
 
