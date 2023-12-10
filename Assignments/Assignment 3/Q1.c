@@ -7,8 +7,8 @@ void student(char name[]);
 int submatrix(int row, int col, int **arr1, int **arr2);
 
 int main(int argc, char const *argv[]){
-    if(argc < 2){
-        printf("Usage : %S C:\Haris Ahmed\q1pfassignment3\q1.exe 8x8matrix.txt\n");
+      if(argc<2){
+        printf("Enter the filename as command line argument!");
         return 1;
     }
 
